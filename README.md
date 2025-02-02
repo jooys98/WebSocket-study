@@ -1,4 +1,4 @@
-#간단한 websocket 구현 
+🌟간단한 websocket 구현 
 
 
 #WebSocket이란?
@@ -13,6 +13,10 @@
 - 메시지의 형식과 규칙을 정의하여 구조화된 통신 가능
 
 #HTTP VS STOMP 
+
+
+
+
 <img width="420" alt="스크린샷 2025-02-02 오후 11 50 10" src="https://github.com/user-attachments/assets/199efba5-01a9-4ce4-b3c1-75962026d51e" />
 
   
